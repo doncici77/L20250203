@@ -32,3 +32,6 @@ public class Sample : MonoBehaviour
 > 인터넷에 쓰여있는 내용은 진짜다. (>)
 > >> 인터넷은 볼거리가 많다. (> >>)
 > >> >>> 그렇지만 ㅅ람들은 늘 할게 없다고 외친다. (> >> >>>)
+
+![7_of_diamonds](https://github.com/user-attachments/assets/d39ff4e3-f5d9-4f73-b9c0-2fd2b444ebf7)
+
